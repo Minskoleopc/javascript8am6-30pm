@@ -1,6 +1,3 @@
-
-
-
 // for(intilization; conditionCheck ; increment/decrement){
 //     // statements
 // }
